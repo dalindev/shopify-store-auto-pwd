@@ -12,9 +12,11 @@ shopify pwd hacks
 </script>
 <script>
 ... your js code here ... 
+document.getElementById("Password").value = 'shopifypass';
+document.getElementById("login_form").submit();
 </script>
 ```
 
-6. you only got 8000 character so remove the tab/space you don't need (I know it will look ugly!)
+6. you only got 8000 characters so remove the tab/space you don't need (I know it will look ugly!)
 7. see my example here: 
 [https://dalinhuang.myshopify.com/](https://dalinhuang.myshopify.com/)
