@@ -11,7 +11,10 @@ shopify pwd hacks
 }catch(e){};ga('send', 'pageview');
 </script>
 <script>
-... your js code here ... 
+
+// your js code here ...
+
+//bypass the pwd for public users
 document.getElementById("Password").value = 'shopifypass';
 document.getElementById("login_form").submit();
 </script>
