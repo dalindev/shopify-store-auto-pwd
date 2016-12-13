@@ -14,7 +14,7 @@ shopify pwd hacks
 
 // your js code here ...
 
-//bypass the pwd for public users
+//bypass the pwd for public users, also u can use jquery
 document.getElementById("Password").value = 'shopifypass';
 document.getElementById("login_form").submit();
 </script>
