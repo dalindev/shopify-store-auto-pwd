@@ -1,5 +1,5 @@
-# shopifyhacks
-shopify pwd hacks
+# shopifyhack
+shopify pwd hack
 
 1. create a new shopify store
 2. goto Admin -> Online Store -> Preferences, goto Google Analytics, setup google Analytics,
