@@ -5,6 +5,7 @@ shopify pwd hack
 2. goto Admin -> Online Store -> Preferences, goto Google Analytics, setup google Analytics,
 something like:
 
+```javascript
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -15,6 +16,7 @@ something like:
   ga('send', 'pageview');
 
 </script>
+```
 
 3. After you setup google analytics there will an options [dditional Google Analytics Javascript]
 4. Yep, thet's where we hacking it...
