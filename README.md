@@ -1,4 +1,7 @@
 # shopifyhack
+
+Here is the link: [https://dalinhuang-2017.myshopify.com](https://dalinhuang-2017.myshopify.com)
+
 shopify pwd hack
 
 1. create a new shopify store
