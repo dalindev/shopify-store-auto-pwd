@@ -37,4 +37,4 @@ document.getElementById("login_form").submit();
 
 6. you only got 8000 characters so remove the tab/space you don't need (I know it will look ugly!)
 7. see my example here: 
-[https://dalinhuang2017.myshopify.com/](https://dalinhuang2017.myshopify.com/)
+[https://dalinhuang-2017.myshopify.com](https://dalinhuang-2017.myshopify.com)
