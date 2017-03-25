@@ -1,6 +1,5 @@
 # shopifyhack
 
-Here is the link: [https://2017dalinhuang.myshopify.com/password](https://2017dalinhuang.myshopify.com/password)
 
 shopify pwd hack
 
@@ -39,5 +38,4 @@ document.getElementById("login_form").submit();
 ```
 
 6. you only got 8000 characters so remove the tab/space you don't need (I know it will look ugly!)
-7. see my example here: 
-[https://2017dalinhuang.myshopify.com/password](https://2017dalinhuang.myshopify.com/password)
+
