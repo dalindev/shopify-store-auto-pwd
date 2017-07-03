@@ -20,7 +20,7 @@ something like:
 </script>
 ```
 
-3. After you setup google analytics there is an option [dditional Google Analytics Javascript]
+3. After you setup google analytics there is an option [aditional Google Analytics Javascript]
 4. Yep, thet's where we hacking it...
 5. you neet to close the script tag like the following:
 
