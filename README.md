@@ -21,8 +21,7 @@ something like:
 ```
 
 3. After you setup google analytics there is an option [aditional Google Analytics Javascript]
-4. Yep, thet's where we hacking it...
-5. you neet to close the script tag like the following:
+4. you need to close the script tag like the following:
 
 ```javascript
 }catch(e){};ga('send', 'pageview');
@@ -37,5 +36,5 @@ document.getElementById("login_form").submit();
 </script>
 ```
 
-6. you only got 8000 characters so remove the tab/space you don't need (I know it will look ugly!)
+5. there is a 8000 character limit so remove the tab/space you don't need (I know it will look ugly!)
 
