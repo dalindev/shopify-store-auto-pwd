@@ -1,4 +1,4 @@
-# shopifyhack
+# bypass trial store 14 day password lock.
 
 
 shopify pwd hack
