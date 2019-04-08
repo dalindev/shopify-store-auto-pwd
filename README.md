@@ -24,16 +24,10 @@ something like:
 4. you need to close the script tag like the following:
 
 ```javascript
-}catch(e){};ga('send', 'pageview');
-</script>
-<script>
-
-// your js code here ...
-
-//bypass the pwd for public users, also u can use jquery
-document.getElementById("Password").value = 'shopifypass';
-document.getElementById("login_form").submit();
-</script>
+setTimeout(function(){ 
+$('#LoginModal #Password').val('shopifypass');
+$('#LoginModal .input-group__btn button[name=commit]').click();
+ }, 0);
 ```
 
 5. there is a 8000 character limit so remove the tab/space you don't need (I know it will look ugly!)
