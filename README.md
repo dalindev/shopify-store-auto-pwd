@@ -30,5 +30,5 @@ $('#LoginModal .input-group__btn button[name=commit]').click();
  }, 0);
 ```
 
-5. there is a 8000 character limit so remove the tab/space you don't need (I know it will look ugly!)
+5. Send your store link to your friends now!
 
